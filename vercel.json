@@ -1,0 +1,6 @@
+{
+  "framework": "react",
+  "rewrites": [
+    { "source": "/", "destination": "/index.jsx" }
+  ]
+}
